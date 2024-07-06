@@ -2,7 +2,7 @@
   {
     "title": "X Clone",
     "imageSrc": "projects/project.png",
-    "description": "I developed a full-stack clone of the popular X app using modern web technologies, including React.js with Vite, Node.js, Express, and MongoDB. This project aims to replicate the core functionalities of the X app, providing users with a seamless and responsive experience both on the frontend and backend.",
+    "description": "I developed a full-stack clone of the popular X app using modern web technologies, including React.js with Vite, Node.js, Express, and MongoDB.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://twitter-clone-bay-two.vercel.app/",
     "source": "https://github.com/Terminator-006/twitter-clone"
@@ -10,15 +10,15 @@
   {
     "title": "FinancExpress",
     "imageSrc": "projects/project.png",
-    "description": "I developed a comprehensive expense tracker platform designed to help users manage their expenses and create budgets. The backend of the platform is structured with four key schemas: User, Transaction, Category, and Budget. These schemas effectively handle the data and provide a robust framework for the platform's functionalities.",
-    "skills": ["React", "Express", "PrismaDB", "Tailwind"],
+    "description": "I developed a comprehensive expense tracker platform designed to help users manage their expenses and create budgets.",
+    "skills": ["React", "Express", "Prisma", "Tailwind"],
     "source": "https://github.com/Terminator-006/Projects/tree/main/financial_services_backend-main"
   },
   {
     "title": "Regnum",
     "imageSrc": "projects/project.png",
-    "description": "Regnum is an exclusive platform designed for elite couples seeking extraordinary experiences and meaningful connections. Unlike typical luxury offerings, Regnum focuses on the power of who you know and the quality of experiences shared.",
-    "skills": ["HTML", "Bootstrap", "JS", "Express", "MongoDB"],
+    "description": "Regnum is an exclusive platform designed for elite couples seeking extraordinary experiences and meaningful connections.",
+    "skills": ["HTML", "CSS", "Express", "Mongo"],
     "demo": "https://regnum.life/",
     "source": "https://github.com/Terminator-006/RegnumProject"
   }
