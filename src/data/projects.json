@@ -3,7 +3,7 @@
     "title": "X Clone",
     "imageSrc": "projects/project.png",
     "description": "I developed a full-stack clone of the popular X app using modern web technologies, including React.js with Vite, Node.js, Express, and MongoDB.",
-    "skills": ["React", "Express", "Node", "MongoD"],
+    "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://twitter-clone-bay-two.vercel.app/",
     "source": "https://github.com/Terminator-006/twitter-clone"
   },
