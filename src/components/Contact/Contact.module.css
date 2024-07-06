@@ -59,6 +59,10 @@
   }
 
   .links {
+    flex-direction: row; /* Change to row */
+    flex-wrap: wrap;    /* Allow wrapping to next line if necessary */
+    justify-content: center;
     align-items: center;
+    gap: 15px;          /* Adjust gap as needed */
   }
 }

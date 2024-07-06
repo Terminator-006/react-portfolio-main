@@ -11,7 +11,7 @@
     "title": "FinancExpress",
     "imageSrc": "projects/project.png",
     "description": "I developed a comprehensive expense tracker platform designed to help users manage their expenses and create budgets.",
-    "skills": ["React", "Express", "Prisma", "Tailwind"],
+    "skills": ["React", "Express", "Tailwind"],
     "source": "https://github.com/Terminator-006/Projects/tree/main/financial_services_backend-main"
   }
   
