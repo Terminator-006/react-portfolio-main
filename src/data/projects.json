@@ -13,13 +13,13 @@
     "description": "I developed a comprehensive expense tracker platform designed to help users manage their expenses and create budgets.",
     "skills": ["React", "Express", "Prisma", "Tailwind"],
     "source": "https://github.com/Terminator-006/Projects/tree/main/financial_services_backend-main"
-  },
-  {
-    "title": "Regnum",
-    "imageSrc": "projects/project.png",
-    "description": "Regnum is an exclusive platform designed for elite couples seeking extraordinary experiences and meaningful connections.",
-    "skills": ["HTML", "CSS", "Express", "MongoDB"],
-    "demo": "https://regnum.life/",
-    "source": "https://github.com/Terminator-006/RegnumProject"
   }
+  // {
+  //   "title": "Regnum",
+  //   "imageSrc": "projects/project.png",
+  //   "description": "Regnum is an exclusive platform designed for elite couples seeking extraordinary experiences and meaningful connections.",
+  //   "skills": ["HTML", "CSS", "Express", "MongoDB"],
+  //   "demo": "https://regnum.life/",
+  //   "source": "https://github.com/Terminator-006/RegnumProject"
+  // }
 ]
