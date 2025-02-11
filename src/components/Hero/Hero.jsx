@@ -1,5 +1,4 @@
 import React from "react";
-
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -20,6 +19,7 @@ export const Hero = () => {
         src={getImageUrl("hero/hero.png")}
         alt="Hero image of me"
         className={styles.heroImg}
+        loading="lazy"
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
